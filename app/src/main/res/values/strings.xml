@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movies App</string>
+    <string name="title">Tiltle :</string>
+    <string name="title_text">Cricket Fever: Mumbai Indians</string>
+    <string name="type_text">Series</string>
+    <string name="type">Type :</string>
+    <string name="year">Year :</string>
+    <string name="year_text">2019-2020</string>
+    <string name="search_here">Search Here</string>
+    <string name="no_match_found">No Match Found</string>
+</resources>
